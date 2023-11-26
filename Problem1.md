@@ -31,3 +31,6 @@ sleep(2000).then(() => {
 });
 
 ```
+
+Follow Up Question: 
+Can we make a blocking version of sleep as well ? 
